@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayyanaamir22
-- 👀 I’m interested in programming, soccer, and star wars
+- 👀 I’m interested in data science, sports, and sci-fi
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

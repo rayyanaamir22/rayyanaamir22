@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @rayyanaamir22
-- 👀 I’m interested in data science, sports, and sci-fi
-- 🌱 I’m currently learning python and ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Rayyan, a first year CS student at University of Toronto Mississauga.
+
+Interests:
+- Data Science and ML 📈
+- Physics and Astronomy 🪐
+- Sports ⚽ 🏀 🏎️
 
 <!---
 rayyanaamir22/rayyanaamir22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

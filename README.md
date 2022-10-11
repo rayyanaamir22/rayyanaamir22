@@ -1,4 +1,4 @@
-##👋 Hi, I’m Rayyan, a first year CS student at University of Toronto Mississauga.
+## 👋 Hi, I’m Rayyan, a first year CS student at University of Toronto Mississauga.
 
 Interests:
 - Data Science and ML 📈

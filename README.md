@@ -6,9 +6,10 @@ Interests:
 - Sports ⚽ 🏀 🏎️
 
 Currently Learning:
-- C++
 - Python
-- ML 
+- ML
+- C++
+- HTML/CSS/JS
 
 <!---
 rayyanaamir22/rayyanaamir22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

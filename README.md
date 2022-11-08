@@ -11,6 +11,8 @@ Currently Learning:
 - C++
 - HTML/CSS/JS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&layout=compact)](https://github.com/rayyanaamir22/github-readme-stats)
+
 [![Rayyan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rayyanaamir22&custom_title=Stats&theme=nightowl&hide_border=true)](https://github.com/rayyanaamir22/github-readme-activity-graph)
 
 <!---

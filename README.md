@@ -40,7 +40,7 @@
 
 ## GitHub stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rayyanaamir22&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
 
 <!--[![Rayyan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rayyanaamir22&custom_title=Stats&theme=nightowl&hide_border=true)](https://github.com/rayyanaamir22/github-readme-activity-graph)-->
 

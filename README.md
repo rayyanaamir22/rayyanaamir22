@@ -41,7 +41,7 @@
 ## GitHub stats
 <!--streak stats-->
 <!--docs at https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=rayyanaamir22&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rayyanaamir22&theme=gotham&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000)
 <!--language stats-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&theme=gotham&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
 

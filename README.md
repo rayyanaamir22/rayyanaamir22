@@ -2,8 +2,12 @@
 
 ## about me:
 - 🇵🇰 x 🇨🇦
-- Studying CS and Math at the University of Toronto
-- Specializing in AI/ML, keen on being a Data Scientist / ML Engineer
+- CS, Math double major at the University of Toronto 🎓
+- Specializing in AI/ML, keen on being a Data Scientist / ML Engineer 📈
+- Interested in Full-Stack Development, 3D Game Dev, Physics Simulation 👨‍🔬
+- Play ⚽️ 🏀, and into motorsports too 🏎️ 
+
+<!--## projects (TODO)-->
 
 ## socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayyan_aamir23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-aamir)

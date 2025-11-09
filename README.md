@@ -8,7 +8,8 @@ You can click the Preview link to take a look at your changes.
 ## About Me:
 - 🇵🇰 x 🇨🇦
 - Math, CS double major at the University of Toronto 🎓
-- Specializing in AI/ML, keen on being a Data Scientist / ML Engineer 📈
+- Specializing in AI/ML 📈
+- Currently working as an ML Engineer at Systems With Intelligence 🧬
 - Also interested in Full-Stack Development, Distributed Systems, 3D Game Dev, Physics Simulation 👨‍🔬
 - Play ⚽️ 🏀, and into motorsports too 🏎️ 
 

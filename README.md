@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <!--docs at https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization-->
 ![](https://github-readme-stats.vercel.app/api?username=rayyanaamir22&theme=midnight-purple&show_icons=true)
 <!--language stats-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&hide=jupyter%20notebook&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&hide=jupyter%20notebook&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💻 Tech Stack:
 

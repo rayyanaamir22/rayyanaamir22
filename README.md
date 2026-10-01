@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 - 🇵🇰 x 🇨🇦
 - Math, CS double major at the University of Toronto 🎓
 - Specializing in AI/ML 📈
-- Currently working as an ML Engineer at Systems With Intelligence 🧬
-- Also interested in Full-Stack Development, Distributed Systems, 3D Game Dev, Physics Simulation 👨‍🔬
-- Play ⚽️ 🏀, and into motorsports too 🏎️ 
+- Worked as Data Scientist, ML Researcher, and Software Engineer 🧬
+- Also interested in Full-Stack, Distributed Systems, 3D Game Dev, Physics Simulation 👨‍🔬
+- I play ⚽️ 🏀, and also into motorsports 🏎️
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayyan_aamir23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-aamir)

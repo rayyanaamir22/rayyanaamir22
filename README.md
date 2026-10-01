@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayyan_aamir23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-aamir)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-%23444444.svg?logo=letterboxd&logoColor=white)](https://letterboxd.com/rayyanaamir/)
 
 ## GitHub Stats
 <!--streak stats-->

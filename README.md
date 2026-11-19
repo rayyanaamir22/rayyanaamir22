@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stats
 <!--streak stats-->
 <!--docs at https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization-->
-![](https://github-readme-stats.vercel.app/api?username=rayyanaamir22&theme=midnight-purple&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=rayyanaamir22&theme=omni&show_icons=true)
 <!--language stats-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&hide=jupyter%20notebook&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanaamir22&hide=jupyter%20notebook&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💻 Tech Stack:
 
@@ -46,6 +46,7 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![OpenGL](https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white) 
 
 ### 🛠️ Backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -63,6 +64,8 @@ You can click the Preview link to take a look at your changes.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)

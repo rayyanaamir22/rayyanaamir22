@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - Specializing in AI/ML 📈
 - Worked as Data Scientist, ML Researcher, and Software Engineer 🧬
 - Also interested in Full-Stack, Distributed Systems, 3D Game Dev, Physics Simulation 👨‍🔬
-- I play ⚽️ 🏀 🎾, and also into motorsports 🏎️
+- Hobbies include ⚽️ 🏀 🎾 🏎️
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayyan_aamir23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-aamir)
